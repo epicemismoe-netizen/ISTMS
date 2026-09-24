@@ -1,0 +1,6 @@
+{
+  "name": "منظومة الأسئلة الآمنة والطباعة اللحظية",
+  "description": "منصة التوزيع المشفر والطباعة اللحظية للأسئلة الامتحانية للمدارس بأعلى معايير الأمان والتشفير الجنائي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
